@@ -3,7 +3,7 @@ name: Yusuf AKBUDAK
 bio: Bozkırın Yağız Savaşçısı
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog Hakkımda technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -75,7 +75,7 @@ width: normal
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
-# if you don't need "about" or "blog", comment them out below
+# if you don't need "hakkımda" or "blog", comment them out below
 Hakkımda: true
 blog: true
 
