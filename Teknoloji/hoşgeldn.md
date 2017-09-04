@@ -1,6 +1,1 @@
----
-layout: Teknoloji
-title: Teknoloji
-permalink: /Teknoloji/
----
-Few of my Teknoloji.
+merhabalar yeni yazım sizlerle beni takip edin lütfen
