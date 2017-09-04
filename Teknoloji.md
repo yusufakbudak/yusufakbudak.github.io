@@ -7,13 +7,7 @@ permalink: /Teknoloji
 Few of my Teknoloji.
 
 
-
-dfsasa
-
-
-sasadasffffff
-
-
-
-dfsa
-
+ffffffffffffffffffffffffffffffffffffffg
+fsssssssssssssssssssssssssssdf
+sgfffffffffffffff
+dfsssssssssssssssssssssssss
