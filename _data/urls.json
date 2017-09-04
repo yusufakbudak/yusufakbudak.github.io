@@ -7,17 +7,17 @@
   },
   {
     "text": "TTeknoloji",
-    "url": "/category/Teknoloji",
+    "url": "/Teknoloji",
     "icon": "fa-desktop"
   },
   {
     "text": "Filmler",
-    "url": "/category/Filmler",
+    "url": "/Filmler",
     "icon": "fa-file-video-o",
   },
   {
     "text": "Kitaplar",
-    "url": "/category/Kitaplar",
+    "url": "/Kitaplar",
     "icon": "fa-book"
    },
   {
