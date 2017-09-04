@@ -1,4 +1,5 @@
 ---
+title: Teknoloji
 permalink: /Teknoloji/
 ---
 
