@@ -12,12 +12,12 @@
   },
   {
     "text": "Filmler",
-    "url": "/#",
+    "url": "/Filmler",
     "icon": "fa-file-video-o",
   },
   {
     "text": "Kitaplar",
-    "url": "/#",
+    "url": "/Kitaplar",
     "icon": "fa-book"
    },
   {
