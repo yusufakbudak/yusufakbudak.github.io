@@ -3,4 +3,4 @@ layout: Teknoloji
 title: Teknoloji
 permalink: /Teknoloji/
 ---
-Few of my projects.
+Few of my Teknoloji.
