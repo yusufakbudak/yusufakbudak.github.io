@@ -1,5 +1,5 @@
 ---
-layout: Teknoloji
+layout: /
 title: Teknoloji
 permalink: /Teknoloji/
 ---
