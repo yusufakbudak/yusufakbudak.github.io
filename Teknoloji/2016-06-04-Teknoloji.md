@@ -1,5 +1,5 @@
 ---
-layout: "#"
+"#"
 title: Teknoloji
 permalink: /Teknoloji/
 ---
