@@ -6,11 +6,6 @@
     "layout": "post"
   },
   {
-    "text": "Hakkımda",
-    "url": "/Hakkımda/",
-    "icon": "fa-comments"
-  },
-  {
     "text": "Teknoloji",
     "url": "/Teknoloji",
     "icon": "fa-desktop"
@@ -21,9 +16,14 @@
     "icon": "fa-file-video-o",
   },
   {
-    "text": "Github",
+    "text": "Kitaplar",
     "url": "/#",
-    "icon": "fa-github"
-  
+    "icon": "fa-book"
+   },
+  {
+    "text": "Hakkımda",
+    "url": "/Hakkımda/",
+    "icon": "fa-comments"
+    
   }
 ]
