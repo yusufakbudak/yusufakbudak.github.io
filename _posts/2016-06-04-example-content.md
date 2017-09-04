@@ -1,6 +1,4 @@
 ---
-layout: default
-title: deneme
 permalink: /Teknoloji/
 ---
 merhaba
