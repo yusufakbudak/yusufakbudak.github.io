@@ -16,6 +16,11 @@
     "icon": "fa-file-video-o",
   },
   {
+    "text": "mars",
+    "url": "/mars",
+    "icon": "fa-file-video-o",
+  },
+  {
     "text": "Kitaplar",
     "url": "/Kitaplar",
     "icon": "fa-book"
@@ -25,10 +30,5 @@
     "url": "/Hakkımda",
     "icon": "fa-comments"
     
-   },
-  {
-    "text": "mars",
-    "url": "/mars",
-    "icon": "fa-desktop"
   }
 ]
