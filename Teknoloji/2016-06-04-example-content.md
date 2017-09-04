@@ -1,2 +1,0 @@
-merhabalar nasılsınız
-ghjfhjfgghjg
