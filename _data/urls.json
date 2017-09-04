@@ -1,34 +1,29 @@
 [
   {
-    "text": "Home",
+    "text": "Ana Sayfa",
     "url": "/",
     "icon": "fa-home",
     "layout": "post"
   },
   {
-    "text": "About",
-    "url": "/about/",
+    "text": "Hakkımda",
+    "url": "/Hakkımda/",
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
-    "url": "/projects",
+    "text": "Teknoloji",
+    "url": "/Teknoloji",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
+    "text": "Filmler",
     "url": "/#",
-    "icon": "fa-graduation-cap",
+    "icon": "fa-movi",
   },
   {
     "text": "Github",
     "url": "/#",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
+  
   }
 ]
