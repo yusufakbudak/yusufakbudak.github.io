@@ -1,0 +1,1 @@
+merhaba güzel adamm
