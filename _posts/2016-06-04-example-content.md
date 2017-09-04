@@ -1,5 +1,4 @@
 ---
-layout: page
 title: deneme
 permalink: /Teknoloji/
 ---
