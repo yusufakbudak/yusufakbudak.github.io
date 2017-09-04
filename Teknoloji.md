@@ -1,8 +1,20 @@
+---s
+layout: Teknolojis
+title: Teknolojis
+
+
+
+
+
+permalink: /Teknolojis
 ---
-layout: Teknoloji
-title: Teknoloji
-permalink: /Teknoloji
----
+
+
+
+
+
+
+
 Few of my Teknoloji.
 
 
