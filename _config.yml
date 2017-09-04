@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Yusuf Akbudak
+description: Kişisel Websitem
+author: Yusuf Akbudak
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/yusufakbudak
+about: Sosyal Medya Uzmanı - Yazar
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "http://yusufakbudak.com/"
+url: http://yusufakbudak.com/"
 
 allowsearch: true
 
@@ -25,4 +25,4 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+gems: [Akbudakwar]
