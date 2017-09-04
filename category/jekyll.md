@@ -1,8 +1,8 @@
 ---
 layout: posts_by_category
-categories: Teknoloji
-title: Teknoloji
-permalink: /category/Teknoloji
+categories: Filmler
+title: Filmler
+permalink: /category/Filmler
 ---
 
 
