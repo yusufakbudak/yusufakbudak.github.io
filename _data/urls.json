@@ -6,8 +6,8 @@
     "layout": "post"
   },
   {
-    "text": "TTeknoloji",
-    "url": "/TTeknoloji",
+    "text": "Teknoloji",
+    "url": "/Teknoloji",
     "icon": "fa-desktop"
   },
   {
@@ -25,5 +25,10 @@
     "url": "/Hakkımda",
     "icon": "fa-comments"
     
+       },
+  {
+    "text": "Teknoloji",
+    "url": "/category/Teknoloji",
+    "icon": "fa-desktop"
   }
 ]
