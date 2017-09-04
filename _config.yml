@@ -5,8 +5,8 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/yusufakbudak
 about: Sosyal Medya Uzmanı - Yazar
 
-baseurl: "http://yusufakbudak.com/"
-url: http://yusufakbudak.com/"
+baseurl: "http://yusufakbudak.com"
+url: http://yusufakbudak.com"
 
 allowsearch: true
 
