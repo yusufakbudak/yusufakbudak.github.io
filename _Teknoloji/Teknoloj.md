@@ -1,18 +1,6 @@
 ---
-ds
-layout: Teknolojids
-ds
-title: Teknolojids
-
-permalink: /Teknolojids
-
+layout: Teknoloji
+title: Teknoloji
+permalink: /Teknoloji
 ---
 Few of my Teknoloji.
-dssssssssssssssf
-
-
-
-
-
-
-sddddd
