@@ -4,4 +4,4 @@ title: Teknoloji
 permalink: /Teknoloji/
 ---
 
-Few of my Teknolojii.
+Few of my Teknoloji.
