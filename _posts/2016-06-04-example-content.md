@@ -1,6 +1,10 @@
 ---
+layout: page
+title: deneme
 permalink: /Teknoloji/
 ---
+merhaba
+
 merhaba
 
 
